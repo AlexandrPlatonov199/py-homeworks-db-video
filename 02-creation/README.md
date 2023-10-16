@@ -1,5 +1,8 @@
 # Домашнее задание к лекции «Работа с SQL. Создание БД»
 
+# Решение
+- [diagrama.png](diagrama.png)
+- [CREATE_TABLE.sql](CREATE_TABLE.sql)
 ## Задание
 
 ### Обязательная часть

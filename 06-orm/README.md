@@ -2,6 +2,11 @@
 
 ## Задание 1
 
+# Решение
+- [models.py](models.py)
+- [main.py](main.py)
+
+
 Составить модели классов SQLAlchemy по схеме:
 
 ![](readme/book_publishers_scheme.png)
